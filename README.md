@@ -2,7 +2,7 @@
 - 👀 I’m interested in UI/UX
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me mansi15094@gmail.com
 - 😄 Pronouns: Her
 - ⚡ Fun fact:Reading protects from prison.
 
