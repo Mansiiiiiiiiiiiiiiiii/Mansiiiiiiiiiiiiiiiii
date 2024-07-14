@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mansi
-- 👀 I’m interested in UI/UX
+- 👀 I’m interested in Web development 
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mansi15094@gmail.com
