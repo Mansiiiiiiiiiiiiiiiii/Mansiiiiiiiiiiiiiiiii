@@ -6,8 +6,8 @@ Welcome to my GitHub space where creativity meets code. I'm a passionate **Front
 
 ## 🚀 About Me
 - 🌸 Pronouns: **She/Her**
-- 🎓 3rd-year B.Tech in Computer Science @ **JECRC University** (SGPA: 9.21)
-- 💻 Front-End Developer: **JavaScript | ReactJS | CSS**
+- 🎓 3rd-year B.Tech in Computer Science @ **JECRC University** (CGPA: 9.21)
+- 💻 Front-End Developer: **JavaScript | ReactJS | AngularJS | CSS**
 - 👨‍💻 Java Developer: Building solutions that blend functionality with efficiency.
 - 🏆 Winner of a Debate Competition, Member of the **Hindi Literary Club**
 - 📚 Avid Reader | Tech Enthusiast | Problem Solver
@@ -29,14 +29,25 @@ I'm always open to working on exciting projects, contributing to open-source, or
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white)
 
 ---
 
 ## 📊 My GitHub Stats
 ![Mansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mansiiiiiiiiiiiiiiiii&show_icons=true&theme=radical)
+
+### 🔥 Streak Stats
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mansiiiiiiiiiiiiiiiii&theme=radical)](https://git.io/streak-stats)
+
+### 🌟 Most Popular Repos
+[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=LeetCode&theme=radical)](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode)
+[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Tic-Tac-Toe&theme=radical)](https://github.com/Mansiiiiiiiiiiiiiiiii/Tic-Tac-Toe)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=compact&theme=radical)](https://github.com/Mansiiiiiiiiiiiiiiiii/github-readme-stats)
 
