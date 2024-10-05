@@ -7,7 +7,7 @@ Welcome to my GitHub space where creativity meets code. I'm a passionate **Front
 ## 🚀 About Me
 - 🌸 Pronouns: **She/Her**
 - 🎓 3rd-year B.Tech in Computer Science @ **JECRC University** (CGPA: 9.21)
-- 💻 Front-End Developer: **JavaScript | ReactJS | AngularJS | CSS**
+- 💻 Front-End Developer: **JavaScript | ReactJS | CSS**
 - 👨‍💻 Java Developer: Building solutions that blend functionality with efficiency.
 - 🏆 Winner of a Debate Competition, Member of the **Hindi Literary Club**
 - 📚 Avid Reader | Tech Enthusiast | Problem Solver
