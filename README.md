@@ -1,24 +1,57 @@
-# 👋 Hi, I’m Mansi
+# 👋 Hey, I'm Mansi! 
 
-Welcome to my GitHub! I'm a passionate **Web Developer** exploring the endless possibilities of the web. 
+Welcome to my GitHub space where creativity meets code. I'm a passionate **Front-End Developer** and **Java enthusiast**, always eager to explore new technologies and bring ideas to life through clean, efficient, and scalable code.
 
-## 👀 What I'm Interested In
-- I’m keen on creating responsive, efficient, and user-friendly websites.
-- Excited about front-end technologies and building interactive web applications.
+---
 
-## 🌱 Currently Learning
-- I'm currently diving into **React** to enhance my front-end development skills.
+## 🚀 About Me
+- 🌸 Pronouns: **She/Her**
+- 🎓 3rd-year B.Tech in Computer Science @ **JECRC University** (SGPA: 9.21)
+- 💻 Front-End Developer: **JavaScript | ReactJS | CSS**
+- 👨‍💻 Java Developer: Building solutions that blend functionality with efficiency.
+- 🏆 Winner of a Debate Competition, Member of the **Hindi Literary Club**
+- 📚 Avid Reader | Tech Enthusiast | Problem Solver
+- 🌱 Learning: **Node.js** and diving deeper into **AI/ML**.
+- 💬 Ask me about **Java**, **UI/UX**, and **Front-End Development**.
 
-## 💞️ Let's Collaborate
-- I’m open to collaborating on interesting web development projects where we can create impactful digital experiences.
+---
 
-## 📫 How to Reach Me
-- Feel free to drop me an email at **mansi15094@gmail.com** for any inquiries or collaboration opportunities.
+## 🤝 Let's Collaborate
+I'm always open to working on exciting projects, contributing to open-source, or collaborating on cool ideas! Feel free to reach out if you're interested in:
+- Building responsive and dynamic web applications
+- Front-End Development with **React** 
+- Exploring new tools and libraries together
 
-## 😄 Pronouns
-- Her
+---
 
-## ⚡ Fun Fact
-- *"One chance can spark a lifetime of change."*
+## 🛠️ Technologies & Tools
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-Thanks for visiting, and happy coding! 😊
+---
+
+## 📊 My GitHub Stats
+![Mansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mansiiiiiiiiiiiiiiiii&show_icons=true&theme=radical)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=compact&theme=radical)](https://github.com/Mansiiiiiiiiiiiiiiiii/github-readme-stats)
+
+---
+
+## 🎉 Fun Fact
+I love diving into a good novel in my free time—whether it's sci-fi, mystery, or something in between, you'll find me lost in pages when I'm not coding!
+
+---
+
+## 📫 Let's Connect
+- 📧 Email: [mansi15094@gmail.com](mailto:mansi15094@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/mansi-kumari-18b33b246](https://linkedin.com/in/mansi-kumari-18b33b246)
+- 💻 GitHub: [github.com/Mansiiiiiiiiiiiiiiiii](https://github.com/Mansiiiiiiiiiiiiiiiii)
+
+---
+
+### ✨ "The best way to predict the future is to create it!" ✨
