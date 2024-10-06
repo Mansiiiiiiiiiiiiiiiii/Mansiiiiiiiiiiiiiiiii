@@ -6,8 +6,8 @@ Welcome to my GitHub space where creativity meets code. I'm a passionate **Front
 
 ## 🚀 About Me
 - 🌸 Pronouns: **She/Her**
-- 🎓 3rd-year B.Tech in Computer Science @ **JECRC University** (CGPA: 9.21)
-- 💻 Front-End Developer: **JavaScript | ReactJS | CSS**
+- 🎓 3rd-year B.Tech in Computer Science @ **JECRC University** (Second Year SGPA: 9.21)
+- 💻 Front-End Developer: **JavaScript | ReactJS | AngularJS | CSS**
 - 👨‍💻 Java Developer: Building solutions that blend functionality with efficiency.
 - 🏆 Winner of a Debate Competition, Member of the **Hindi Literary Club**
 - 📚 Avid Reader | Tech Enthusiast | Problem Solver
@@ -47,9 +47,14 @@ I'm always open to working on exciting projects, contributing to open-source, or
 
 ### 🌟 Most Popular Repos
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=LeetCode&theme=radical)](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode)
-[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Tic-Tac-Toe&theme=radical)](https://github.com/Mansiiiiiiiiiiiiiiiii/Tic-Tac-Toe)
+[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=javaproject&theme=radical)](https://github.com/Mansiiiiiiiiiiiiiiiii/javaproject)
+[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Lunacal-&theme=radical)](https://github.com/Mansiiiiiiiiiiiiiiiii/Lunacal-)
+[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=DSA&theme=radical)](https://github.com/Mansiiiiiiiiiiiiiiiii/DSA)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=compact&theme=radical)](https://github.com/Mansiiiiiiiiiiiiiiiii/github-readme-stats)
+
+
+### 📚 Most Used Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=compact&langs_count=10&theme=radical)](https://github.com/Mansiiiiiiiiiiiiiiiii/github-readme-stats)
 
 ---
 
