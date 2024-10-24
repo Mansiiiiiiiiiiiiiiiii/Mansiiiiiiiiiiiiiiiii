@@ -71,4 +71,4 @@ I love diving into a good novel in my free time—whether it's sci-fi, mystery, 
 
 ---
 
-### ✨ "The best way to predict the future is to create it!" ✨
+### ✨ "Every expert was once a beginner; give a fresher a chance, and you might just discover their hidden potential."✨
