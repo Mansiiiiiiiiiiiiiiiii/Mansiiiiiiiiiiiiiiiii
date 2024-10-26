@@ -26,6 +26,7 @@ I'm always open to working on exciting projects, contributing to open-source, or
 
 ## 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -50,12 +51,12 @@ I'm always open to working on exciting projects, contributing to open-source, or
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=javaproject&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/javaproject)
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Virtual-Assistant&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/Virtual-Assistant)
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=DSA&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/DSA)
-[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=LeetCode&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode)
+[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=PHP&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/PHP)
 
 
 
 ### 📚 Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=compact&langs_count=15&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=compact&langs_count=20&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/github-readme-stats)
 
 ---
 
