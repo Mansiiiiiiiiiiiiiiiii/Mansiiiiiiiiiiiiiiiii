@@ -8,6 +8,7 @@ Welcome to my GitHub space where creativity meets code. I'm a passionate **Front
 - 🌸 Pronouns: **She/Her**
 - 🎓 3rd-year B.Tech in Computer Science @ **JECRC University** (Second Year SGPA: 9.21)
 - 💻 Front-End Developer: **JavaScript | ReactJS | CSS**
+- **🌐 PHP (Hypertext Preprocessor)**: Powerful server-side scripting language for dynamic web development.
 - 👨‍💻 Java Developer: Building solutions that blend functionality with efficiency.
 - 🏆 Winner of a Debate Competition, Member of the **Hindi Literary Club**
 - 📚 Avid Reader | Tech Enthusiast | Problem Solver
