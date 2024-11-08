@@ -46,8 +46,6 @@ I'm always open to working on exciting projects, contributing to open-source, or
 ## 📊 My GitHub Stats
 ![Mansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mansiiiiiiiiiiiiiiiii&show_icons=true&theme=radical)
 
-### 🔥 Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Mansiiiiiiiiiiiiiiiii&theme=radical&cache_seconds=86400)](https://git.io/streak-stats)
 
 ### 🌟 Most Popular Repos
 
