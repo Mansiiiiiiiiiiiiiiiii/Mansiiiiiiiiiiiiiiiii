@@ -7,20 +7,20 @@ Welcome to my GitHub space where creativity meets code. I'm a passionate **Front
 ## 🚀 About Me
 - 🌸 Pronouns: **She/Her**
 - 🎓 3rd-year B.Tech in Computer Science @ **JECRC University** (Second Year SGPA: 9.21)
-- 💻 Front-End Developer: **JavaScript | ReactJS | CSS**
+- 💻 Web Developer
 - **🌐 PHP (Hypertext Preprocessor)**: Powerful server-side scripting language for dynamic web development.
 - 👨‍💻 Java Developer: Building solutions that blend functionality with efficiency.
 - 🏆 Winner of a Debate Competition, Member of the **Hindi Literary Club**
 - 📚 Avid Reader | Tech Enthusiast | Problem Solver
-- 🌱 Learning: **Node.js** and diving deeper into **AI/ML**.
-- 💬 Ask me about **Java**, **UI/UX**, and **Front-End Development**.
+- 🌱 Learning: **Node.js** and diving deeper into **Wordpress**.
+- 💬 Ask me about **Java**, **UI/UX**, and **Web Development**.
 
 ---
 
 ## 🤝 Let's Collaborate
 I'm always open to working on exciting projects, contributing to open-source, or collaborating on cool ideas! Feel free to reach out if you're interested in:
 - Building responsive and dynamic web applications
-- Front-End Development with **React** 
+- Web Development
 - Exploring new tools and libraries together
 
 ---
