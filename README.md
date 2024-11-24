@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mansi! 
 
-Welcome to my GitHub space where creativity meets code. I'm a passionate **Front-End Developer** and **Java enthusiast**, always eager to explore new technologies and bring ideas to life through clean, efficient, and scalable code.
+Welcome to my GitHub space where creativity meets code. I'm a passionate **Web Developer** and **Java enthusiast**, always eager to explore new technologies and bring ideas to life through clean, efficient, and scalable code.
 
 ---
 
