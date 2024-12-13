@@ -43,10 +43,6 @@ I'm always open to working on exciting projects, contributing to open-source, or
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![JSP](https://img.shields.io/badge/-JSP-007396?style=flat&logo=java&logoColor=white)
-![Servlets](https://img.shields.io/badge/-Servlets-007396?style=flat&logo=java&logoColor=white)
-
-
 
 ---
 
