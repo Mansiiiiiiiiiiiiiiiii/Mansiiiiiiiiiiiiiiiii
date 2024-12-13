@@ -64,7 +64,7 @@ I'm always open to working on exciting projects, contributing to open-source, or
 
 
 ### 📚 Most Used Languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=compact&langs_count=40&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=compact&langs_count=5&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/github-readme-stats)
 
 ---
 
