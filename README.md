@@ -58,7 +58,7 @@ I'm always open to working on exciting projects, contributing to open-source, or
 
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=LeetCode&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode)
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Login-Page&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/Login-Page)
-[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=DSA&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/DSA)
+[![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Adv-Java&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/Adv-Java)
 [![Top Repositories](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=PHP&theme=radical&cache_seconds=1800)](https://github.com/Mansiiiiiiiiiiiiiiiii/PHP)
 
 
@@ -74,6 +74,7 @@ I love diving into a good novel in my free time—whether it's sci-fi, mystery, 
 ---
 
 ## 📫 Let's Connect
+Thanks for visiting my GitHub! Let’s connect and build amazing things together. 😊
 - 📧 Email: [mansi15094@gmail.com](mailto:mansi15094@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/mansi-kumari-18b33b246](https://linkedin.com/in/mansi-kumari-18b33b246)
 - 💻 GitHub: [github.com/Mansiiiiiiiiiiiiiiiii](https://github.com/Mansiiiiiiiiiiiiiiiii)
