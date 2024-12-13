@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Mansi! 
 
-Welcome to my GitHub space where creativity meets code. I'm a passionate **Web Developer** and **Java enthusiast**, always eager to explore new technologies and bring ideas to life through clean, efficient, and scalable code.
+Welcome to my GitHub profile! 👋 I'm , a passionate Web Developer Intern and Software Engineer based in India. I enjoy solving problems through code and building creative, user-friendly applications. My repositories showcase a variety of projects across different programming languages and technologies, including Java, Python, C++, PHP, JavaScript, and more.
 
 ---
 
