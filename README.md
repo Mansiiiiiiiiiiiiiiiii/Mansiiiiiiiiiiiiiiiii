@@ -24,12 +24,6 @@ I'm always open to working on exciting projects, contributing to open-source, or
 - Exploring new tools and libraries together
 
 ---
-# Watch the Snake Eat My Contributions!
-
-![Snake Eating Contributions](https://path_to_your_uploaded_gif.gif)
-
-Thanks for visiting my profile! 🎉
----
 
 ## 🛠️ Technologies & Tools
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
