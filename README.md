@@ -6,7 +6,7 @@ Welcome to my GitHub profile! 👋 I'm , a passionate Web Developer and Software
 
 ## 🚀 About Me
 - 🌸 Pronouns: **She/Her**
-- 🎓 3rd-year B.Tech in Computer Science @ **JECRC University** (Second Year SGPA: 9.21)
+- 🎓 3rd-year B.Tech in Computer Science @ **JECRC University** (Third Year SGPA: 8.68)
 - 💻 Web Developer
 - **🌐 PHP (Hypertext Preprocessor)**: Powerful server-side scripting language for dynamic web development.
 - 👨‍💻 Java Developer: Building solutions that blend functionality with efficiency.
