@@ -54,6 +54,7 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
   <img src="https://img.shields.io/badge/Cython-2%20Repositories-9cf?style=for-the-badge&logo=cython&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-4%20Repositories-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-3%20Repositories-blueviolet?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=pie&langs_count=20&theme=tokyonight&hide_border=true" />
   <img src="https://img.shields.io/badge/PHP-2%20Repositories-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Smarty-1%20Repository-lightgreen?style=for-the-badge&logo=smarty&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-2%20Repositories-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
