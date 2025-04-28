@@ -1,43 +1,43 @@
-# 👋 Hey there, I'm Mansi!
+<!-- Particle Background Start -->
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+</p>
 
+<!-- Typing Animation -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7F7F7&background=0D1117&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mansi!;Web+Developer+%7C+Java+Enthusiast;C%2B%2B+Explorer+%7C+Problem+Solver;Always+Learning+%7C+Creating+%7C+Building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=F7F7F7&background=0D1117&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mansi!;Web+Developer+%7C+Python+Enthusiast;C%2B%2B+Explorer+%7C+Problem+Solver;Always+Learning+%7C+Creating+%7C+Building" alt="Typing SVG" />
 </div>
 
+<!-- Cool GIF -->
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
 </div>
 
+---
+
+# 👋 Hey there, I'm Mansi!
+
 Welcome to my GitHub profile! 🌸 I'm a passionate **Web Developer** and **Software Engineer** from India.  
 I love building creative, user-friendly applications and solving real-world problems through code.  
-Here, you'll find my projects across **Java**, **Python**, **C++**, **PHP**, **JavaScript**, and more! 🚀
+Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript**, and more! 🚀
 
 ---
 
 ## 🚀 A Little About Me
 - 🌸 **Pronouns:** She/Her
 - 🎓 **Education:** 3rd-year B.Tech (Computer Science) @ **JECRC University**  
-  (Third Year SGPA: **8.68** 🌟)
-- 💻 **Profession:** Web Developer | Java Developer
+  (Third Year SGPA: **8.68** ⭐)
+- 💻 **Profession:** Web Developer | Software Developer
 - 📖 **Currently Learning:** **C++**, **Data Structures & Algorithms (DSA)**, and mastering **OOPS Concepts**.
 - 🏆 **Achievements:** Winner - Debate Competition | Member - **Hindi Literary Club**
 - 📚 **Hobbies:** Exploring tech trends, UI/UX designing, and reading thrilling novels.
-- 💬 **Ask Me About:** Java, UI/UX, Web Development, DSA.
-
----
-
-## 🤝 Let's Team Up!
-I’m always excited to collaborate, brainstorm new ideas, or contribute to open-source! 💡  
-Let's connect if you love:
-- Building responsive, modern web apps 🌍
-- Exploring tech together 🚀
-- Creating meaningful projects 🤝
+- 💬 **Ask Me About:** Python, C++, UI/UX, Web Development, DSA.
 
 ---
 
 ## 🛠️ Technologies & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,react,java,python,cpp,c,mysql,bootstrap,tailwind,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,react,python,cpp,c,mysql,bootstrap,tailwind,git,github,vscode,idea" />
 </p>
 
 ---
@@ -46,7 +46,14 @@ Let's connect if you love:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mansiiiiiiiiiiiiiiiii&show_icons=true&theme=tokyonight&hide_border=true" alt="Mansi's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansiiiiiiiiiiiiiiiii&theme=tokyonight&hide_border=true" alt="Mansi's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mansiiiiiiiiiiiiiiiii&theme=tokyonight" alt="Summary Card" />
+</div>
+
+---
+
+## 📚 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=pie&langs_count=20&theme=tokyonight&hide_border=true" alt="Top Languages Pie Chart" />
 </div>
 
 ---
@@ -62,20 +69,13 @@ Let's connect if you love:
 </div>
 
 ---
-## 🎖️ Extra Cool Badges
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mansiiiiiiiiiiiiiiiii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://github-profile-trophy.vercel.app/?username=Mansiiiiiiiiiiiiiiiii&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</p>
+
+## 🌟 Fun Fact
+> 💬 **"Don't quit until you’ve given your absolute best — your future self will thank you!"** 💪✨
 
 ---
 
-## 🎯 Fun Fact
-> 💬 **"Don't quit until you’ve given your absolute best — your future self will thank you!"**
-
----
-
-## 📫 Let's Connect and Build Something Amazing!
+## 📢 Let's Connect and Build Something Amazing!
 <div align="center">
   <a href="mailto:mansi15094@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -90,4 +90,13 @@ Let's connect if you love:
 
 ---
 
-## ✨ "Keep pushing, keep learning — the world needs your unique spark!" ✨
+## ✨ Extra Cool Stats
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mansiiiiiiiiiiiiiiiii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mansiiiiiiiiiiiiiiiii&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+<!-- Animated Wave Footer -->
+<img src=\"https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer\"/>
