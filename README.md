@@ -8,6 +8,8 @@
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
 </div>
 
+---
+
 Welcome to my GitHub profile! 🌸 I'm a passionate **Web Developer** and **Software Engineer** from India.  
 I love building creative, user-friendly applications and solving real-world problems through code.  
 Here, you'll find my projects across **Java**, **Python**, **C++**, **PHP**, **JavaScript**, and more! 🚀
@@ -46,9 +48,14 @@ Let's connect if you love:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mansiiiiiiiiiiiiiiiii&show_icons=true&theme=tokyonight&hide_border=true" alt="Mansi's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansiiiiiiiiiiiiiiiii&theme=tokyonight&hide_border=true" alt="Mansi's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
+---
+
+## 📚 Most Used Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=normal&langs_count=20&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
 ---
 
 ## 🌟 Featured Projects
@@ -64,7 +71,7 @@ Let's connect if you love:
 ---
 
 ## 🎯 Fun Fact
-> 💬 **"Don't quit until you’ve given your absolute best — your future self will thank you!"**
+> 💬 **"Don't quit until you’ve given your absolute best — your future self will thank you!"** 💪✨
 
 ---
 
@@ -84,4 +91,3 @@ Let's connect if you love:
 ---
 
 ## ✨ "Keep pushing, keep learning — the world needs your unique spark!" ✨
-
