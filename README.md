@@ -45,24 +45,26 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 </div>
 
 ---
-## 📚 My Most Used Languages
 
-<p align="center"> <img src="https://img.shields.io/badge/C++-8%20Repositories-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-5%20Repositories-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-3%20Repositories-A8B9CC?style=for-the-badge&logo=c&logoColor=white" /> 
+## 📚 My Most Used Languages (by Number of Repositories)
+
+<div align="center">
+  <img src="https://img.shields.io/badge/C++-8%20Repositories-blue?style=for-the-badge&logo=cpp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-5%20Repositories-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-3%20Repositories-lightgrey?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4%20Repositories-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-4%20Repositories-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/CSS-3%20Repositories-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cython-2%20Repositories-9cf?style=for-the-badge&logo=cython&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML-4%20Repositories-orange?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS-3%20Repositories-blueviolet?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-2%20Repositories-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cython-2%20Repositories-FFD43B?style=for-the-badge&logo=cython&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-2%20Repositories-007396?style=for-the-badge&logo=java&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/Smarty-1%20Repository-lightgreen?style=for-the-badge&logo=smarty&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-2%20Repositories-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
-  <img src="https://img.shields.io/badge/Smarty-1%20Repository-FF6600?style=for-the-badge&logo=smarty&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Fortran-1%20Repository-734F96?style=for-the-badge&logo=fortran&logoColor=white" />
-  <img src="https://img.shields.io/badge/Meson-1%20Repository-00ADD8?style=for-the-badge&logo=meson&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-2%20Repositories-red?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortran-1%20Repository-734f96?style=for-the-badge&logo=fortran&logoColor=white" />
+  <img src="https://img.shields.io/badge/Meson-1%20Repository-darkgreen?style=for-the-badge&logo=meson&logoColor=white" />
   <img src="https://img.shields.io/badge/Batchfile-1%20Repository-006400?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hack-1%20Repository-00BFFF?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</p>
+  <img src="https://img.shields.io/badge/Hack-1%20Repository-00bfff?style=for-the-badge&logo=hackthebox&logoColor=white" />
+</div>
 
 ---
 
