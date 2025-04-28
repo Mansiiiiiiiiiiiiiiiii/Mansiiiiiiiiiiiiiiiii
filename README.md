@@ -62,7 +62,7 @@ Let's connect if you love:
 </div>
 
 ---
-🎖️ Extra Cool Badges
+## 🎖️ Extra Cool Badges
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mansiiiiiiiiiiiiiiiii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://github-profile-trophy.vercel.app/?username=Mansiiiiiiiiiiiiiiiii&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
