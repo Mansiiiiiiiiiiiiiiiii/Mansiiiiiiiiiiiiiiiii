@@ -44,14 +44,13 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 
 ---
 
-## 📚 My Main Coding Languages
-
 ## 📚 My Most Used Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/C++-8%20Repositories-blue?style=for-the-badge&logo=cpp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-5%20Repositories-yellow?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-3%20Repositories-lightgrey?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4%20Repositories-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Cython-2%20Repositories-9cf?style=for-the-badge&logo=cython&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-4%20Repositories-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-3%20Repositories-blueviolet?style=for-the-badge&logo=css3&logoColor=white" />
@@ -65,10 +64,10 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
   <img src="https://img.shields.io/badge/Hack-1%20Repository-00bfff?style=for-the-badge&logo=hackthebox&logoColor=white" />
 </p>
 
-
 ---
 
-## 📚 Most Used Languages
+## 📚 Languages Ranked by Code Size (KB-Based)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=pie&langs_count=20&theme=tokyonight&hide_border=true" alt="Top Languages Pie Chart" />
 </div>
