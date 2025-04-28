@@ -44,6 +44,16 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 
 ---
 
+## 📚 My Main Coding Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-8%20Repositories-blue?style=for-the-badge&logo=cpp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-5%20Repositories-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-2%20Repositories-yellowgreen?style=for-the-badge&logo=javascript&logoColor=white" />
+</p>
+
+---
+
 ## 📚 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=pie&langs_count=20&theme=tokyonight&hide_border=true" alt="Top Languages Pie Chart" />
