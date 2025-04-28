@@ -1,4 +1,3 @@
-
 <!-- Typing Animation -->
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&pause=1000&color=F7F7F7&background=0D1117&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Mansi!;Web+Developer+%7C+Python+Enthusiast;C%2B%2B+Explorer+%7C+Problem+Solver;Always+Learning+%7C+Creating+%7C+Building" alt="Typing SVG" />
@@ -10,6 +9,7 @@
 </div>
 
 ---
+
 ## 👋 Hey there, I'm Mansi!
 
 Welcome to my GitHub profile! 🌸 I'm a passionate **Web Developer** and **Software Engineer** from India.  
@@ -27,11 +27,13 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 - 🏆 **Achievements:** Winner - Debate Competition | Member - **Hindi Literary Club**
 - 📚 **Hobbies:** Exploring tech trends, UI/UX designing, and reading thrilling novels.
 - 💬 **Ask Me About:** Python, C++, UI/UX, Web Development, DSA.
+
 ---
+
 ## 🛠️ Technologies & Tools
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,php,js,react,python,cpp,c,mysql,bootstrap,tailwind,git,github,vscode,idea" />
-</p>
+</div>
 
 ---
 
@@ -44,9 +46,9 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 
 ---
 
-## 📚 My Most Used Languages
+## 📚 My Most Used Languages (by Number of Repositories)
 
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/C++-8%20Repositories-blue?style=for-the-badge&logo=cpp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-5%20Repositories-yellow?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-3%20Repositories-lightgrey?style=for-the-badge&logo=c&logoColor=white" />
@@ -54,7 +56,6 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
   <img src="https://img.shields.io/badge/Cython-2%20Repositories-9cf?style=for-the-badge&logo=cython&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-4%20Repositories-orange?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-3%20Repositories-blueviolet?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=pie&langs_count=20&theme=tokyonight&hide_border=true" />
   <img src="https://img.shields.io/badge/PHP-2%20Repositories-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Smarty-1%20Repository-lightgreen?style=for-the-badge&logo=smarty&logoColor=white" />
   <img src="https://img.shields.io/badge/PowerShell-2%20Repositories-5391FE?style=for-the-badge&logo=powershell&logoColor=white" />
@@ -63,7 +64,7 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
   <img src="https://img.shields.io/badge/Meson-1%20Repository-darkgreen?style=for-the-badge&logo=meson&logoColor=white" />
   <img src="https://img.shields.io/badge/Batchfile-1%20Repository-006400?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Hack-1%20Repository-00bfff?style=for-the-badge&logo=hackthebox&logoColor=white" />
-</p>
+</div>
 
 ---
 
@@ -76,8 +77,7 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 ---
 
 ## 🌟 Featured Projects
-
-<table>
+<table align="center">
   <tr>
     <td>
       <a href="https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode">
@@ -104,20 +104,20 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
   </tr>
 </table>
 
-
 ---
 
 ## ✨ Extra Cool Stats
-<p align="center">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mansiiiiiiiiiiiiiiiii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://github-profile-trophy.vercel.app/?username=Mansiiiiiiiiiiiiiiiii&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
-</p>
+</div>
 
 ---
-<!-- Particle Background -->
-<p align="center">
+
+<!-- Animated Wave Footer -->
+<div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+</div>
 
 ---
 
@@ -141,7 +141,7 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 
 ---
 
-<!-- Animated Wave Footer -->
-<p align="center">
+<!-- Footer Wave -->
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
-</p>
+</div>
