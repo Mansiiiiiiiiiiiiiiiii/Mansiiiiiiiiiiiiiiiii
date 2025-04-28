@@ -1,9 +1,3 @@
-Yay! 🎉 Typing animation will make it **super interactive** and **dynamic** 🔥
-
-Here's your **final upgraded version** with the **typing animation** at the top using **readme-typing-svg**:
-
----
-
 # 👋 Hey there, I'm Mansi!
 
 <div align="center">
