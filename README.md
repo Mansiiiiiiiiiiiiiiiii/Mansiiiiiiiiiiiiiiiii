@@ -32,6 +32,7 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,php,js,react,python,cpp,c,mysql,bootstrap,tailwind,git,github,vscode,idea" />
 </p>
+
 ---
 
 ## 📊 GitHub Stats
@@ -40,12 +41,14 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansiiiiiiiiiiiiiiiii&theme=tokyonight&hide_border=true" alt="Mansi's GitHub Streak" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mansiiiiiiiiiiiiiiiii&theme=tokyonight" alt="Summary Card" />
 </div>
+
 ---
 
 ## 📚 Most Used Languages
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mansiiiiiiiiiiiiiiiii&layout=pie&langs_count=20&theme=tokyonight&hide_border=true" alt="Top Languages Pie Chart" />
 </div>
+
 ---
 
 ## 🌟 Featured Projects
@@ -55,6 +58,7 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 [![Advanced Java](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Adv-Java&theme=tokyonight)](https://github.com/Mansiiiiiiiiiiiiiiiii/Adv-Java)
 [![C++ Projects](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=C_plus_plus&theme=tokyonight)](https://github.com/Mansiiiiiiiiiiiiiiiii/C_plus_plus)
 </div>
+
 ---
 
 ## ✨ Extra Cool Stats
@@ -62,16 +66,20 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
   <img src="https://komarev.com/ghpvc/?username=Mansiiiiiiiiiiiiiiiii&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   <img src="https://github-profile-trophy.vercel.app/?username=Mansiiiiiiiiiiiiiiiii&theme=darkhub&no-frame=true&margin-w=15&column=7" alt="GitHub Trophies" />
 </p>
+
 ---
 <!-- Particle Background -->
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
+
 ---
 
 ## 🌟 Fun Fact
 > 💬 **"Don't quit until you’ve given your absolute best — your future self will thank you!"** 💪✨
+
 ---
+
 ## 📢 Let's Connect and Build Something Amazing!
 <div align="center">
   <a href="mailto:mansi15094@gmail.com">
@@ -84,7 +92,9 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </div>
+
 ---
+
 <!-- Animated Wave Footer -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
