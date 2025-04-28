@@ -52,14 +52,34 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 ---
 
 ## 🌟 Featured Projects
+## 🌟 Featured Projects
 
-[![LeetCode](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=LeetCode&theme=tokyonight)](https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode)
-
-[![Login Page](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Login-Page&theme=tokyonight)](https://github.com/Mansiiiiiiiiiiiiiiiii/Login-Page)
-
-[![Advanced Java](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Adv-Java&theme=tokyonight)](https://github.com/Mansiiiiiiiiiiiiiiiii/Adv-Java)
-
-[![C++ Projects](https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=C_plus_plus&theme=tokyonight)](https://github.com/Mansiiiiiiiiiiiiiiiii/C_plus_plus)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=LeetCode&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mansiiiiiiiiiiiiiiiii/Login-Page">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Login-Page&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Mansiiiiiiiiiiiiiiiii/Adv-Java">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Adv-Java&theme=tokyonight" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Mansiiiiiiiiiiiiiiiii/C_plus_plus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=C_plus_plus&theme=tokyonight" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
