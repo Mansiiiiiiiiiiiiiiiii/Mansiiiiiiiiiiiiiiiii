@@ -8,8 +8,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" />
 </div>
+
 ---
-# 👋 Hey there, I'm Mansi!
+## 👋 Hey there, I'm Mansi!
 
 Welcome to my GitHub profile! 🌸 I'm a passionate **Web Developer** and **Software Engineer** from India.  
 I love building creative, user-friendly applications and solving real-world problems through code.  
