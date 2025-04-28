@@ -1,6 +1,6 @@
-<!-- Particle Background Start -->
+<!-- Particle Background -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <!-- Typing Animation -->
@@ -99,4 +99,6 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 ---
 
 <!-- Animated Wave Footer -->
-<img src=\"https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer\"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
+</p>
