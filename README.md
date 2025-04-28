@@ -32,6 +32,7 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
   <img src="https://skillicons.dev/icons?i=html,css,php,js,react,python,cpp,c,mysql,bootstrap,tailwind,git,github,vscode,idea" />
 </p>
 ---
+
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mansiiiiiiiiiiiiiiiii&show_icons=true&theme=tokyonight&hide_border=true" alt="Mansi's GitHub Stats" />
