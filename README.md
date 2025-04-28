@@ -52,7 +52,6 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 ---
 
 ## 🌟 Featured Projects
-## 🌟 Featured Projects
 
 <table>
   <tr>
