@@ -21,7 +21,7 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 ## 🚀 A Little About Me
 - 🌸 **Pronouns:** She/Her
 - 🎓 **Education:** 3rd-year B.Tech (Computer Science) @ **JECRC University**  
-  (Third Year SGPA: **8.68** ⭐)
+  (Third Year SGPA: **8.88** ⭐)
 - 💻 **Profession:** Web Developer | Software Developer
 - 📖 **Currently Learning:** **C++**, **Data Structures & Algorithms (DSA)**, and mastering **OOPS Concepts**.
 - 🏆 **Achievements:** Winner - Debate Competition | Member - **Hindi Literary Club**
