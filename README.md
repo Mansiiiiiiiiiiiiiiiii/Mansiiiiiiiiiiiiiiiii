@@ -114,13 +114,6 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 
 ---
 
-<!-- Animated Wave Footer -->
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
 ## 🌟 Fun Fact
 > 💬 **"Don't quit until you’ve given your absolute best — your future self will thank you!"** 💪✨
 
