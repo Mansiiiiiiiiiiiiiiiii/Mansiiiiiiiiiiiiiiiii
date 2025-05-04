@@ -80,7 +80,7 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 <table align="center">
   <tr>
     <td>
-      <a href="https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode">
+      <a href="https://github.com/Mansiiiiiiiiiiiiiiiii/LeetCode-GfG">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=LeetCode&theme=tokyonight" />
       </a>
     </td>
