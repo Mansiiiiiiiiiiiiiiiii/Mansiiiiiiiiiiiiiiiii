@@ -34,7 +34,7 @@ I enjoy solving real-world problems and building meaningful digital experiences 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mansiiiiiiiiiiiiiiiii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mansiiiiiiiiiiiiiiiii&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mansiiiiiiiiiiiiiiiii&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mansiiiiiiiiiiiiiiiii&theme=tokyonight" />
 </div>
@@ -88,23 +88,15 @@ I enjoy solving real-world problems and building meaningful digital experiences 
 
 ---
 
-## 🔗 Social Links
+## 📫 Let's Connect!
 
 <div align="center">
-  <a href="mailto:mansi15094@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/mansi-kumari-18b33b246"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Mansiiiiiiiiiiiiiiiii"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/mansi1rg2z"><img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
-  <a href="https://leetcode.com/ThFanPRetH/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://www.codechef.com/users/kumarimansi003"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-</div>
-
----
-
-## 🧮 Profile Views
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mansiiiiiiiiiiiiiiiii&style=flat-square&color=0E75B6" alt="profile views" />
+  <a href="mailto:mansi15094@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/mansi-kumari-18b33b246"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/Mansiiiiiiiiiiiiiiiii"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://auth.geeksforgeeks.org/user/mansi1rg2z"><img src="https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" /></a>
+  <a href="https://leetcode.com/ThFanPRetH/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.codechef.com/users/kumarimansi003"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
 </div>
 
 ---
