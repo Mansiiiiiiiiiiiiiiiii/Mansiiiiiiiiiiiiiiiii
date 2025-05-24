@@ -148,5 +148,3 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=100&section=footer"/>
 </div>
-
-make it look more attractive 
