@@ -32,7 +32,7 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
 
 ## 🛠️ Technologies & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,php,js,react,python,cpp,c,mysql,bootstrap,tailwind,git,github,vscode,idea,figma,aws,gcp,java,node js" />
+  <img src="https://skillicons.dev/icons?i=html,css,php,js,react,python,cpp,c,mysql,bootstrap,tailwind,git,github,vscode,idea,figma,aws,gcp,java,nodejs" />
 </div>
 
 ---
