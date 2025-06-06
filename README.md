@@ -86,7 +86,7 @@ Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript*
     </td>
     <td>
       <a href="https://github.com/Mansiiiiiiiiiiiiiiiii/Node-JS">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Node-Page&theme=tokyonight" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mansiiiiiiiiiiiiiiiii&repo=Node-JS&theme=tokyonight" />
       </a>
     </td>
   </tr>
