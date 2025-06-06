@@ -23,7 +23,7 @@ Here, you'll find my projects across **Node-JS**, **C++**, **PHP**, **JavaScript
 - 🎓 **Education:** 3rd-year B.Tech (Computer Science) @ **JECRC University**  
   (Third Year SGPA: **8.88** ⭐)
 - 💻 **Profession:** Web Developer | Software Developer
-- 📖 **Currently Learning:** **Node-JS**,**Express-JS**,**C++**, **Data Structures & Algorithms (DSA)**, and mastering **OOPS Concepts**.
+- 📖 **Currently Learning:** **Node-JS**, **Express-JS** ,**C++**, **Data Structures & Algorithms (DSA)**, and mastering **OOPS Concepts**.
 - 🏆 **Achievements:** Winner - Debate Competition | Member - **Hindi Literary Club**
 - 📚 **Hobbies:** Exploring tech trends, UI/UX designing, and reading thrilling novels.
 - 💬 **Ask Me About:** Python, C++, UI/UX, Web Development, DSA.
