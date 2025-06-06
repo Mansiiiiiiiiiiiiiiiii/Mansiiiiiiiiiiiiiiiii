@@ -14,7 +14,7 @@
 
 Welcome to my GitHub profile! 🌸 I'm a passionate **Web Developer** and **Software Engineer** from India.  
 I love building creative, user-friendly applications and solving real-world problems through code.  
-Here, you'll find my projects across **Python**, **C++**, **PHP**, **JavaScript**, and more! 🚀
+Here, you'll find my projects across **Node-JS**, **C++**, **PHP**, **JavaScript**, and more! 🚀
 
 ---
 
