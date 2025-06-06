@@ -52,6 +52,7 @@ Here, you'll find my projects across **Node-JS**, **C++**, **PHP**, **JavaScript
   <img src="https://img.shields.io/badge/C++-8%20Repositories-blue?style=for-the-badge&logo=cpp&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-5%20Repositories-yellow?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-3%20Repositories-lightgrey?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-3%20Repositories-f7df1e?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/MySQL-4%20Repositories-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Cython-2%20Repositories-9cf?style=for-the-badge&logo=cython&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML-4%20Repositories-orange?style=for-the-badge&logo=html5&logoColor=white" />
@@ -64,7 +65,9 @@ Here, you'll find my projects across **Node-JS**, **C++**, **PHP**, **JavaScript
   <img src="https://img.shields.io/badge/Meson-1%20Repository-darkgreen?style=for-the-badge&logo=meson&logoColor=white" />
   <img src="https://img.shields.io/badge/Batchfile-1%20Repository-006400?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Hack-1%20Repository-00bfff?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-2%20Repositories-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </div>
+
 
 ---
 
